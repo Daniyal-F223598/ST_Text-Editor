@@ -25,3 +25,4 @@
 2026-02-15 14:24:23.179 [AWT-EventQueue-0] INFO  pl.EditorPO - Do you want to delete the selected file?
 2026-02-15 14:24:24.235 [AWT-EventQueue-0] INFO  pl.EditorPO - File deleted successfully!
 2026-02-15 20:13:00.923 [main] ERROR pl.EditorPO - file_that_does_not_exist.txt (The system cannot find the file specified)
+2026-02-15 20:36:11.698 [main] ERROR pl.EditorPO - file_that_does_not_exist.txt (The system cannot find the file specified)
